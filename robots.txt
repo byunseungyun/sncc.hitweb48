@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://sncc.hitweb.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
